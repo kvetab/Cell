@@ -1,0 +1,26 @@
+paths/
+puddle, chloroplast, 215,19, 217,98, 3;
+puddle, nucleus, 961,320, 829,320, 3;
+puddle, ribosome, 515,23, 515,101, 3;
+puddle, er, 722,601, 722,544, 3;
+chloroplast, ribosome, 362,132, 466,133, 5;
+chloroplast, er, 316,284, 551,459, 6;
+chloroplast, mitochondrion, 164,320, 174,400, 3;
+chloroplast, nucleus, 386,240, 623,302, 8;
+mitochondrion, er, 418,483, 563,511, 4;
+mitochondrion, nucleus, 446,442, 645,360, 10;
+mitochondrion, ribosome, 359,364, 448,324, 6;
+ribosome, vacuole, 571,132, 649,111, 6;
+er, vacuole, 874,405, 877,243, 7;
+er, membrane, 884,477, 933,478, 5;
+nucleus, ribosome, 668,239, 600,190, 4
+/
+counters/
+chloroplast = glucose,186,194-O2,308,194;
+er = ATP,658,456 - glucose,636,518 - P,778,460 - phospholipids,804,513;
+mitochondrion = glucose,195,466 - O2,362,466 - ATP,285,402;
+nucleus = ATP,682,351 - P,756,285 - O2,768,357 - mRNA,687,278;
+ribosome = mRNA,555,223 - glucose,511,340 - N,468,202, proteins,523,151;
+vacuole = ATP,691,116 - glucose,752,112 - mRNA,821,120 - N,859,153 - O2,876,207 - P,814,194 - phospholipids,749,154 - proteins,731,162;
+membrane = phospholipids,81,555
+/

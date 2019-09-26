@@ -1,0 +1,9 @@
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.Form1.resources
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.Properties.Resources.resources
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.csproj.GenerateResource.Cache
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\bin\Debug\TheCell.exe.config
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\bin\Debug\TheCell.exe
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\bin\Debug\TheCell.pdb
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.exe
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.pdb
+C:\Users\Kiki\documents\visual studio 2017\Projects\TheCell\TheCell\obj\Debug\TheCell.csprojResolveAssemblyReference.cache
